@@ -5,21 +5,21 @@
 * Current Role/Position: RPA Support Engineer
 * Field of Interest: Automation, Web Development and AI and Sports.
 
-##Part 1: Self-Assessment Reflection
+## Part 1: Self-Assessment Reflection
 
-Skills Analysis:
+#### Skills Analysis:
 My List of SKills💻: HTML, RPA tools (Blue Prism, Automation Anywhere) Jira, SQL,  Technical support, Computer and Network troubleshooting
 I need to improve these skills: CSS, JavaScript, Power BI, SQL and Python.
 
-Interests and Values:
-#### Interests
+#### Interests and Values:
+Interests
 Technology & Automation – Passion for building automated solutions and improving efficiency.
 Software Development – Enjoy coding, problem-solving, and learning new programming languages.
 Gaming & Esports – Interested in competitive gaming and app development for online gaming.
 Football and football Analysis – Passion for football as a sport and very much interested in tactical and performance analysis in soccer.
 Artificial Intelligence – Exploring AI applications for automation and gaming.
 
-#### Values
+Values
 Efficiency – Striving for streamlined workflows and process automation.
 Continuous Learning – Committed to growing skills, especially in software development and AI.
 Integrity – Ensuring honesty and accountability in all professional and personal dealings.
