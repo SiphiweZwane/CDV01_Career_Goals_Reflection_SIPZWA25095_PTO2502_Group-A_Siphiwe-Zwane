@@ -11,7 +11,7 @@
 * My List of SKills💻: HTML, RPA tools (Blue Prism, Automation Anywhere) Jira, SQL,  Technical support, Computer and Network troubleshooting
 * I need to improve these skills: CSS, JavaScript, Power BI, SQL and Python.
 
-#### Interests and Values:
+#### 2. Interests and Values:
 Interests
 Technology & Automation – Passion for building automated solutions and improving efficiency.
 Software Development – Enjoy coding, problem-solving, and learning new programming languages.
