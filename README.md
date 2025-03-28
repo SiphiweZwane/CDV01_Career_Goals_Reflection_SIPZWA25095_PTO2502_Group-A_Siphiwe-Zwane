@@ -1,10 +1,11 @@
 # CDV01_Career_Goals_Reflection_SIPZWA25095_PTO2502_Group-A_Siphiwe-Zwane
-Personal Information
-Name: Siphiwe Zwane
-Date: 27/03/2025
-Current Role/Position: RPA Support Engineer
-Field of Interest: Automation, Web Development and AI and Sports.
-Part 1: Self-Assessment Reflection
+##Personal Information
+*Name: Siphiwe Zwane
+*Date: 27/03/2025
+*Current Role/Position: RPA Support Engineer
+*Field of Interest: Automation, Web Development and AI and Sports.
+
+##Part 1: Self-Assessment Reflection
 
 Skills Analysis:
 My List of SKills💻: HTML, RPA tools (Blue Prism, Automation Anywhere) Jira, SQL,  Technical support, Computer and Network troubleshooting
