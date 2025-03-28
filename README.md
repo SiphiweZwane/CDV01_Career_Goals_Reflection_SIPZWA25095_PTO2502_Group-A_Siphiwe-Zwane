@@ -8,8 +8,8 @@
 ## Part 1: Self-Assessment Reflection
 
 #### Skills Analysis:
-My List of SKills💻: HTML, RPA tools (Blue Prism, Automation Anywhere) Jira, SQL,  Technical support, Computer and Network troubleshooting
-I need to improve these skills: CSS, JavaScript, Power BI, SQL and Python.
+* My List of SKills💻: HTML, RPA tools (Blue Prism, Automation Anywhere) Jira, SQL,  Technical support, Computer and Network troubleshooting
+* I need to improve these skills: CSS, JavaScript, Power BI, SQL and Python.
 
 #### Interests and Values:
 Interests
